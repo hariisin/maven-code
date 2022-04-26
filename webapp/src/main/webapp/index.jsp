@@ -13,15 +13,15 @@ Hello, World! Test2
   </form>
  
   <%
-  String[] authors = request.getParameterValues("country");
+  String[] countries = request.getParameterValues("country");
   if (country != null) {
   %>
     <h3>You have selected country:</h3>
     <ul>
   <%
-      for (int i = 0; i < country.length; ++i) {
+      for (int i = 0; i < countries.length; ++i) {
   %>
-        <li><%= country[i] %></li>
+        <li><%= countries[i] %></li>
   <%
       }
   %>
