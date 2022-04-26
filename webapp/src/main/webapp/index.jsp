@@ -1,12 +1,15 @@
-#container {
-    color:green;
-    font-family: Consolas, Baskerville, 'Segoe UI', sans-serif;
-}
+
 
 Hello, World! Test2
 <html>
 <head>
   <title>Echoing HTML Request Parameters</title>
+   <style>
+     .container {
+    color:green;
+    font-family: Consolas, Baskerville, 'Segoe UI', sans-serif;
+}
+    </style>
 </head>
 <body>
   <h3>Choose a Country</h3>
