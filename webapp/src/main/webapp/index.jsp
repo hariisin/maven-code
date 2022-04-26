@@ -1,3 +1,8 @@
+#container {
+    color:green;
+    font-family: Consolas, Baskerville, 'Segoe UI', sans-serif;
+}
+
 Hello, World! Test2
 <html>
 <head>
@@ -6,10 +11,12 @@ Hello, World! Test2
 <body>
   <h3>Choose a Country</h3>
   <form method="get">
-    <input type="checkbox" name="country" value="France">India
+    <div id="container">
+    <input type="checkbox" name="country" value="France">France
     <input type="checkbox" name="country" value="India">India
     <input type="checkbox" name="country" value="Portugal">Portugal
     <input type="submit" value="Query">
+    </div>
   </form>
  
   <%
