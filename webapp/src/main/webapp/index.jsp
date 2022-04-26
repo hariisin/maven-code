@@ -6,9 +6,9 @@ Hello, World! Test2
 <body>
   <h3>Choose a Country</h3>
   <form method="get">
-    <input type="checkbox" name="country" value="France">Tan
-    <input type="checkbox" name="country" value="India">Ali
-    <input type="checkbox" name="country" value="Portugal">Kumar
+    <input type="checkbox" name="country" value="France">India
+    <input type="checkbox" name="country" value="India">India
+    <input type="checkbox" name="country" value="Portugal">Portugal
     <input type="submit" value="Query">
   </form>
  
