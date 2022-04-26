@@ -14,7 +14,7 @@ Hello, World! Test2
  
   <%
   String[] countries = request.getParameterValues("country");
-  if (country != null) {
+  if (countries != null) {
   %>
     <h3>You have selected country:</h3>
     <ul>
