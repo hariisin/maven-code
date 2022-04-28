@@ -1,6 +1,6 @@
 
 
-CI/CD Complete pipeline With Build 
+CI/CD Complete pipeline After renaming the jobs
 <html>
 <head>
   <title> Techmeeting -Devops Demo</title>
