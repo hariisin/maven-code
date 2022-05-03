@@ -1,6 +1,6 @@
 
 
-New Setup CI/CD Complete pipeline - Full life cycle
+New Setup CI/CD Complete pipeline 
 <html>
 <head>
   <title> Techmeeting -New Demo</title>
