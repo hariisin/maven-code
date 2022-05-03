@@ -1,6 +1,6 @@
 
 
-New Setup CI/CD Complete pipeline After renaming the jobs
+New Setup CI/CD Complete pipeline 
 <html>
 <head>
   <title> Techmeeting -New Demo</title>
