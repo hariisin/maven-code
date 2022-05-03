@@ -3,7 +3,7 @@
 CI/CD Complete pipeline After renaming the jobs
 <html>
 <head>
-  <title> Techmeeting -Devops Demo</title>
+  <title> Techmeeting -New Demo</title>
 </head>
 <body>
   <h3>Choose a Country</h3>
